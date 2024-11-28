@@ -1,1 +1,8 @@
-["Chihuahua", "Maltese dog", "Pekinese", "Papillon", "Beagle", "Dhole", "African hunting dog", "Other"]
+[
+    "BrainPowerASML", "BrainPowerBook", "BrainPowerBouwstenen", "BrainPowerDesign", 
+    "BrainPowerFirstAIs", "BrainPowerFirstComputer", "BrainPowerForEveryHand", 
+    "BrainPowerGoldBox", "BrainPowerICatLino", "BrainPowerIntroduction", 
+    "BrainPowerPlayer", "BrainPowerPowers_Limitations", "BrainPowerResistorBoard", 
+    "BrainPowerSelfDriving", "BrainPowerWall", "BrainPowerWelcomeSign", 
+    "BrainPowerChatAI", "Other"
+]
